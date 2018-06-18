@@ -42,7 +42,7 @@ addEntity('a.demo_mode', 'enabled');
 
 addEntity('configurator.philips_hue', 'configure', {
   configure_id: '4415244496-1',
-  description: 'Press the button on the bridge to register Philips Hue with Home Assistant.',
+  description: 'Press the button on the bridge to register Philips Hue with SINVI.',
   description_image: '/demo/images/config_philips_hue.jpg',
   fields: [],
   submit_caption: 'I have pressed the button',
