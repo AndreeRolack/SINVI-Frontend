@@ -101,7 +101,7 @@ class HaSidebar extends
     </style>
 
     <app-toolbar>
-      <div main-title="">Home Assistant</div>
+      <div main-title="">SINVI Farm System</div>
       <paper-icon-button icon="hass:chevron-left" hidden$="[[narrow]]" on-click="toggleMenu"></paper-icon-button>
     </app-toolbar>
 
