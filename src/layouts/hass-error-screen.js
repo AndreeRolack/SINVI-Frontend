@@ -38,7 +38,7 @@ class HassErrorScreen extends PolymerElement {
     return {
       title: {
         type: String,
-        value: 'Home Assistant',
+        value: 'SINVI Farm System',
       },
 
       error: {
